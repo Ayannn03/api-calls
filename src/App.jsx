@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import DataForm from '../component/dataForm';
-import './App.css'
+import '../component/DataForm.css'
 
 function App() {
     const [count, setCount] = useState(0)
